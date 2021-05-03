@@ -1,4 +1,4 @@
-# Awesome Rust Books
+# [Awesome Rust Books](https://github.com/open-rs/books-rs/blob/main/README.md)
 
 ```rust
 enum Status {
